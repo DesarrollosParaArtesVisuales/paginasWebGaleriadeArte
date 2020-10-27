@@ -4,4 +4,4 @@ Aquí vamos a desarrollar galerías de arte virtuales para mostrar trabajos art�
 
 4 Festival de Videopoesía
 
-desarrollosparaartesvisuales.github.io/paginasWebGaleriadeArte/FestivalDeVideoPoesia2020
+https://desarrollosparaartesvisuales.github.io/paginasWebGaleriadeArte/FestivalDeVideoPoesia2020
