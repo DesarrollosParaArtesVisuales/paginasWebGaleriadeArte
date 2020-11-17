@@ -7,7 +7,7 @@ Aquí vamos a desarrollar galerías de arte virtuales para mostrar trabajos art�
 https://desarrollosparaartesvisuales.github.io/paginasWebGaleriadeArte/FestivalDeVideoPoesia2020
 
 # Perdurar en lo efímero
-# Exposición de Fotografía Artística 2020
+Exposición de Fotografía Artística 2020
 Área de Artes Visuales Centro Cultural UNGS
 
 https://desarrollosparaartesvisuales.github.io/paginasWebGaleriadeArte/FotografiaArtisticaIyII2020
