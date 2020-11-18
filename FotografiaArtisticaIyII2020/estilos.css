@@ -87,8 +87,6 @@ p.textoCorto{
 
 .unaFoto:target{
     display: block;
-    transition: all 1s;
-    display:inline-block;
 }
 .nombre p{
     margin: 0;
