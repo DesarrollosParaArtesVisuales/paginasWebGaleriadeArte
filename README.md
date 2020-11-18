@@ -11,3 +11,9 @@ Exposición de Fotografía Artística 2020
 Área de Artes Visuales Centro Cultural UNGS
 
 https://desarrollosparaartesvisuales.github.io/paginasWebGaleriadeArte/FotografiaArtisticaIyII2020
+
+# Transferencias
+Exposición de Fotografía Digital 2020
+Área de Artes Visuales Centro Cultural UNGS
+
+https://desarrollosparaartesvisuales.github.io/paginasWebGaleriadeArte/FotografiaDigitalIyII2020
