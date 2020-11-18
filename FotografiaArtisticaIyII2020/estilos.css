@@ -65,9 +65,15 @@ p.textoCorto{
 }
 
 .losParti{    
-    display: block;
-    margin: auto;
-    width: 73%;
+    display: inline-flex;
+    /* width: 120px;*/
+    text-align: left;
+
+    flex-wrap: wrap;
+    padding: 3px;
+    margin: 1px;
+    background: #000;
+    justify-content:space-between;
 }
 
 
@@ -75,6 +81,7 @@ p.textoCorto{
 .nombre{
     width: 350px;
     display: block;
+    margin: auto;
     margin-bottom: 35px;
 }
 
