@@ -30,6 +30,13 @@ a {
     background: #00F;
 }
 
+#firmaPia p{
+        
+    display: inline-block;
+   width: 65%;
+    text-align: left
+}
+
 a.estoyaqui{
     background: #f00;  
 
