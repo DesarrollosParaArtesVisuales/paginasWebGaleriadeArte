@@ -27,3 +27,7 @@ https://desarrollosparaartesvisuales.github.io/paginasWebGaleriadeArte/Fotografi
 # TE CAÍMOS MONTADAS, MI CIELA...
 
 https://desarrollosparaartesvisuales.github.io/paginasWebGaleriadeArte/MuestraTeCaimosMontadasMiCiela
+
+# Fotoreportajes en pandemia
+
+https://desarrollosparaartesvisuales.github.io/paginasWebGaleriadeArte/fotorreportajesEnPandemia2021
