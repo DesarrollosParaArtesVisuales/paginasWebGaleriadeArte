@@ -36,14 +36,14 @@ a.estoyaqui{
 }
 
 a.enElTexto{
-        display: inline-block;
+    display: inline-block;
     padding-top: 2px;
     padding-bottom: 2px;
     margin-bottom: 2px;
     margin-top: 2px;
     padding:  2px;
     color: #fff;
-    background: rgb(0,0,100,0.3);
+    background: rgba(0,0,100,0.3);
 }
 
 img {
