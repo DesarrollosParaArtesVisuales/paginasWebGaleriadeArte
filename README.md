@@ -31,3 +31,8 @@ https://desarrollosparaartesvisuales.github.io/paginasWebGaleriadeArte/MuestraTe
 # Fotoreportajes en pandemia
 
 https://desarrollosparaartesvisuales.github.io/paginasWebGaleriadeArte/fotorreportajesEnPandemia2021
+
+# Matices de un instante
+
+https://desarrollosparaartesvisuales.github.io/paginasWebGaleriadeArte/FotografiaArtistica2021semestre1
+
