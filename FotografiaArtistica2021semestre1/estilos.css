@@ -55,8 +55,13 @@ p.textoCuratorial{
 
 p.textoCorto{
     padding: 20px;
-    text-align: left;
+    text-align: justify;
     display: inline-block;
+}
+
+p.subtitulo {
+    font-size: 14px;
+
 }
 
 .introduccion{  
