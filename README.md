@@ -36,3 +36,7 @@ https://desarrollosparaartesvisuales.github.io/paginasWebGaleriadeArte/fotorrepo
 
 https://desarrollosparaartesvisuales.github.io/paginasWebGaleriadeArte/FotografiaArtistica2021semestre1
 
+# Luz Convergente
+
+https://desarrollosparaartesvisuales.github.io/LuzConvergenteFotografiaDigitalUNGS2021/index.html#img1
+
