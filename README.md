@@ -40,3 +40,7 @@ https://desarrollosparaartesvisuales.github.io/paginasWebGaleriadeArte/Fotografi
 
 https://desarrollosparaartesvisuales.github.io/LuzConvergenteFotografiaDigitalUNGS2021/index.html#img1
 
+# Historia Natural Javier Bilatz
+
+https://desarrollosparaartesvisuales.github.io/HistoriaNaturalJavierBilatzCCUNGS/index.html#img1
+
